@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Pj4wtdWMJIWNQ9ax7owNwX/Projeto01-Extra-(Copy)?node-id=0%3A1&t=5ouvDCAZ3TYBpPuD-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/anvjXO9I6sRfnJVAWN8PeP/Explorer---Projeto-01-(Copy)?node-id=1%3A2&t=NEwoGppinrnpalCT-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
